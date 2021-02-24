@@ -21,7 +21,7 @@ print(5+6**2)
 10 Kostenko Karîna
 
 11 Kuzòecovs Ivans
-
+print(2+7)
 12 Ïetko Jevgçnijs
 
 13 Skuridins Artis Daniels
